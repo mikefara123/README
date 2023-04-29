@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikefara123&label=Profile%20views&color=0e75b6&style=flat" alt="mikefara123" /> </p>
 
-- 🔭 I’m currently working on [CivilTalk, which is a social emotional learning platform](https://www.civiltalk.com/)
+- 🔭 I’m currently working on [ A social emotional learning platform called CivilTalk](https://www.civiltalk.com/)
 
-- 👯 I’m looking to collaborate on **on any open-source project that pushes software world forwared**
+- 👯 I’m looking to collaborate on **Any open-source project that pushes software world forwared**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
