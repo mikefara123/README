@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mike@webcentriq.com**
 
-- ⚡ Fun fact **I like fast pace stuff, like Flash ⚡**
+- ⚡  **I like fast pace stuff, like Flash ⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
